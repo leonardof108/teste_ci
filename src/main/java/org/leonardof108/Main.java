@@ -5,5 +5,6 @@ package org.leonardof108;
 public class Main {
     static void main() {
         System.out.println("hello world");
+        System.out.println("hello world");
     }
 }
